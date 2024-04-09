@@ -1,0 +1,19 @@
+{
+  "author": "Metal Adam",
+  "headline": "My Awesome Blog",
+  "keywords": ["code", "cool"],
+  "posts": [
+    {
+      "title": "Hello World",
+      "keywords": ["hello", "first"],
+      "slug": "hello-world",
+      "filename": "hello.md"
+    },
+    {
+      "title": "The json format",
+      "keywords": ["json", "data", "js"],
+      "slug": "the-json-format",
+      "filename": "json.md"
+    }
+  ]
+}
