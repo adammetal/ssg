@@ -14,6 +14,12 @@
       "keywords": ["json", "data", "js"],
       "slug": "the-json-format",
       "filename": "json.md"
+    },
+    {
+      "title": "Async keyword",
+      "keywords": ["async", "data", "js"],
+      "slug": "async-keyword",
+      "filename": "async.md"
     }
   ]
 }
